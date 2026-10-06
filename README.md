@@ -1,5 +1,7 @@
 # Rocksmith 2014 no Linux com Behringer UM2
 
+Português | [English](README.en.md)
+
 Guia de como eu deixei o Rocksmith 2014 Remastered rodando no CachyOS usando uma interface de áudio Behringer UM2 no lugar do Real Tone Cable. Latência baixa, sem ruído, com CDLC e RSMods funcionando.
 
 Levou uma tarde inteira e umas quatro tentativas que deram errado. Este README existe pra você não precisar repetir os mesmos erros.
